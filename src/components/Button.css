@@ -4,7 +4,7 @@
 }
 
 .button {
-    font-size: 1.4em;
+    font-size: 1.6em;
     background-color: var(--bg-button);
     border: none;
     border-right: var(--border-button);
@@ -27,6 +27,7 @@
 .button-operation {
     background-color: #fa8231;
     color: #fff;
+    font-size: 1.8em;
 }
 
 .button-operation:active {
